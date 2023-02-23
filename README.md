@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on a DevOps open source project
 - 🤔 I’m looking for help with: Terraform (HashiCorp), DevOps
 - 💬 Ask me about: REST/SOAP Apis, GraphQL, Spring/Springboot, Thymeleaf, Android development, Maven, SQL Server/Oracle/MySql DB and SSL/TLS Certificates
-- 😄 Pronouns: 😄..
+- 😄 Pronouns: 😄...
 - ⚡ Fun fact: See you at the top
 
 <!--
