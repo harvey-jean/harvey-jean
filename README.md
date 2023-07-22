@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Booking ecosystem combining: Service Discovery, Distributed Tracing, Load Balancers, Message Queues, Docker, Kubernetes, Kafka
 - 🌱 I’m currently learning: AWS (EC2, ECS, S3, Elasticache, Elasticsearch, …), Jenkins, Quarkus
 - 👯 I’m looking to learn and collaborate on a DevOps open source project
-- 🤔 I’m looking for help with: Terraform (HashiCorp), DevOps
+- 🤔 I’m looking for help with: Terraform (HashiCorp), Jenkins
 - 💬 Ask me about: REST/SOAP Apis, GraphQL, Spring/Springboot, Thymeleaf, Android development, Maven, SQL Server/Oracle/MySql DB and SSL/TLS Certificates
 - 😄 Pronouns: 😄...
 - ⚡ Fun fact: See you at the top
